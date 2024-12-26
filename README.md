@@ -2,7 +2,7 @@
 
 I am a passionate backend engineer and database specialist, deeply curious about technology and dedicated to mastering the art of software engineering. My journey revolves around creating scalable applications, exploring cutting-edge tech, and sharing knowledge with others.
 
-![Abdelrhman Moataz's Stats](https://github-readme-stats.vercel.app/api?username=apdo60311&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=apdo60311&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 ## 🚀 About Me
 
@@ -12,16 +12,27 @@ I am a passionate backend engineer and database specialist, deeply curious about
 - 💻 I build software applications using modern technologies.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,postgresql,redis,docker,aws,rust,flutter,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,mongo,postgresql,redis,docker,aws,rust,flutter,go)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+<details>
+<summary>🚀 Backend Development</summary>
 
-- 🚀 Building highly scalable backend systems
-  - Implementing microservices with NestJS and event-driven architectures.
-  - Enhancing API design and security with GraphQL and OAuth2.
-  - Working on distributed systems using RabbitMQ, Kafka, and NATS.
-  - Diving into database optimization with PostgreSQL and MongoDB.
-  - Scaling deployments with Kubernetes and Docker.
+- ⚡ Microservices with NestJS
+- 🔐 GraphQL & OAuth2 Implementation
+- 🔄 Event-Driven Architecture (RabbitMQ, Kafka)
+- 📊 Database Optimization
+- ⚙️ Kubernetes Deployments
+</details>
+<details>
+<summary>💻 Systems Programming</summary>
+
+- 🦀 High-Performance Rust Applications
+- 🔧 Go Microservices Development
+- 🛠️ Low-Level System Optimization
+- 🔒 Memory-Safe Programming
+- 🚀 Concurrent Programming Patterns
+</details>
+
 
 ## ✍️ Articles & Blogs
 
