@@ -2,7 +2,10 @@
 
 I am a passionate backend engineer and database specialist, deeply curious about technology and dedicated to mastering the art of software engineering. My journey revolves around creating scalable applications, exploring cutting-edge tech, and sharing knowledge with others.
 
-<img src="https://github-readme-stats.vercel.app/api?username=apdo60311&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apdo60311&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apdo60311&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## 🚀 About Me
 
