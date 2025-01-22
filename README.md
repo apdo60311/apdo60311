@@ -15,7 +15,7 @@ I am a passionate backend engineer and database specialist, deeply curious about
 - 💻 I build software applications using modern technologies.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,mongo,postgresql,redis,docker,aws,rust,flutter,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,firebase,mongo,postgresql,redis,postman,docker,aws,rust,flutter,go,git,github,cpp,flask,)](https://skillicons.dev)
 
 <details>
 <summary>🚀 Backend Development</summary>
