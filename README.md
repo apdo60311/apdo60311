@@ -4,7 +4,7 @@ I am a passionate backend engineer and database specialist, deeply curious about
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apdo60311&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apdo60311&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apdo60311&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ## 🚀 About Me
